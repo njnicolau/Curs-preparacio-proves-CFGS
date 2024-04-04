@@ -2,10 +2,10 @@
 site_name: Curs de preparació proves CFGS
 
 # Carpeta amb el documents fot
-#docs_dir: 'md'
+docs_dir: 'md'
 
 # Carpeta on es generarà el lloc web (mkdocs build)
-#site_dir: 'docs'
+site_dir: 'docs'
 
 # Adreça on s'executa el server local (mkdocs serve)
 dev_addr: localhost:8000
